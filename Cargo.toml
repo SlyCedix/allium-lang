@@ -1,0 +1,9 @@
+[package]
+name = "allium"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+lazy_static = "1.5.0"
+thiserror = "2.0.17"
+utf8-chars = "3.0.6"
