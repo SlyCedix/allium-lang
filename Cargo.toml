@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 anyhow = { version = "1.0.100", features = ["backtrace"] }
 lazy_static = "1.5.0"
+unicode-id-start = "1.4.0"
